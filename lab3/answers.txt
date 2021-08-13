@@ -1,0 +1,12 @@
+sort1 uses: bubble sort
+
+How do you know?: the reversed-list still from the biggest to smallest, so we don't have the perfectlist in here,
+I compare both random and reversed list, sort1 always give the time slower than sort3
+
+sort2 uses: merge sort
+
+How do you know?: in random-list, sort2 have the time smallest
+
+sort3 uses: selection sort
+
+How do you know?: sort3 have the time faster than sort1 in both case
